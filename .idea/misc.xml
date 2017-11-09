@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../006746/ch09" value="41344928436000" />
+        <entry key="$PROJECT_DIR$/../006746/ch10" value="41344928436000" />
+        <entry key="$PROJECT_DIR$/../api-account-tantalum-b2b" value="3016581328000" />
+        <entry key="$PROJECT_DIR$/../api-account-tantalum-b2c" value="2969895125000" />
+        <entry key="$PROJECT_DIR$/../api-authentication-handycar" value="1504664361000" />
+        <entry key="$PROJECT_DIR$/../api-authentification-handycar" value="1504475504000" />
+        <entry key="$PROJECT_DIR$/../api-graph-tantalum-b2b" value="1508745104000" />
+        <entry key="$PROJECT_DIR$/../api-reservation-handycar" value="1510201995000" />
+        <entry key="$PROJECT_DIR$/../api-router-tantalum-b2c" value="2986795915000" />
+        <entry key="$PROJECT_DIR$/../api-telematics-tantalum-b2c" value="2968064496000" />
+        <entry key="$PROJECT_DIR$/../lib-calamp-model" value="3001779798000" />
+        <entry key="$PROJECT_DIR$/../lib-security-tantalum" value="3010524848000" />
+        <entry key="$PROJECT_DIR$/../micro-arm-tantalum-b2b" value="3017649190000" />
+        <entry key="$PROJECT_DIR$/../micro-arm-tantalum-b2c" value="2985765534000" />
+        <entry key="$PROJECT_DIR$/../micro-batch-reports" value="2969104392000" />
+        <entry key="$PROJECT_DIR$/../micro-elastic-index-tantalum-b2b" value="2962570548000" />
+        <entry key="$PROJECT_DIR$/../micro-gcm-tantalum" value="3010181049000" />
+        <entry key="$PROJECT_DIR$/../micro-notification-handycar" value="3013116652000" />
+        <entry key="$PROJECT_DIR$/../spring-cloud-consul-example/service-a" value="1504593847000" />
+        <entry key="$PROJECT_DIR$/../svc-fallout" value="2967033088000" />
+        <entry key="$PROJECT_DIR$/../svc-neon" value="3015747477000" />
+        <entry key="$PROJECT_DIR$/../svc-sonic" value="2961734475000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
